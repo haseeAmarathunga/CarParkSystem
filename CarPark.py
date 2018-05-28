@@ -74,8 +74,8 @@ class Car:
             print ("No:{0} car Added To THE CAR PARK.".format(wait_list[0]) )
             del wait_list[0]
 
-#A=Arrive
-#D=Arrive
+#A=Arrive car
+#D=Arrive car
         
 c1=Car('001-2155')
 c1.A()
@@ -101,7 +101,7 @@ c11=Car('1158-2155')
 c11.A()
 c12=Car('1253-8745')
 c12.A()
-#Derrieved
+#Derrieved car
 c8.D()
 c5.D()
 
